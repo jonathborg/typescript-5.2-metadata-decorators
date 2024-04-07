@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "target": "ES2022",
+    "lib": [
+      "es2022",
+      "esnext.decorators",
+      "dom"
+    ],
+    "outDir": "./dist"
+  }
+}
